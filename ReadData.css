@@ -1,0 +1,18 @@
+.dragFile1{
+   border-width: 1 !important;
+   border-style: "solid" !important;
+    border-color: #cccccc !important;
+    height: 45 !important;
+    line-height: 2.5 !important;
+    margin-top: 5 !important;
+    margin-bottom: 5 !important;
+    margin-left: 13 !important;
+    padding-top: 3 !important;
+    width: '60%' !important
+}
+
+.pvtUi{
+    display: flex;
+    justify-content: center;
+    
+}
